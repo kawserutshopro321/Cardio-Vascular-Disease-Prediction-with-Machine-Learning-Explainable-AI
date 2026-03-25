@@ -1,6 +1,3 @@
-Readme · MD
-Copy
-
 # 🫀 Heart Disease Prediction with Machine Learning & Explainable AI
  
 > **Built a complete ML pipeline that predicts cardiovascular disease with 95.61% accuracy, then used Explainable AI (LIME + SHAP) to make the model's decisions transparent and interpretable for medical professionals.**
