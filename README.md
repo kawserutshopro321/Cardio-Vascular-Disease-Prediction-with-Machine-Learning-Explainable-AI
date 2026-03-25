@@ -367,9 +367,3 @@ jupyter notebook "cardio disease (2).ipynb"
 This project is open-source and available for academic and research purposes.
 
 ---
-
-## 🙋 Author
-
-**Utsho** — [GitHub Profile](https://github.com/UtshoData)
-
-If you found this useful, consider giving the repo a ⭐!
