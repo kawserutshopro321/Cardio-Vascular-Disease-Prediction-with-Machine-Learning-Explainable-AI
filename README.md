@@ -188,6 +188,6 @@ This project is open-source and available for academic and research purposes.
 
 ## 🙋 Author
 
-**Utsho** — [GitHub Profile](https://github.com/UtshoData)
+**Utsho** — [GitHub Profile](https://github.com/https://github.com/kawserutshopro321)
 
 If you found this useful, consider giving the repo a ⭐!
